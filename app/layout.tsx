@@ -40,7 +40,7 @@ export default function RootLayout({
       <body
 
       >
-        <DirectionProvider direction="ltr">
+        <DirectionProvider direction="rtl">
           <ThemeProvider
             attribute="class"
             defaultTheme="system"
